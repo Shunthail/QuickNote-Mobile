@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "QuickNote",
+    "slug": "quicknote-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
